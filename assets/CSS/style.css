@@ -1,5 +1,5 @@
 * {
-    margin: 10px;
+    margin: 20px;
     padding: 5px;
     border: none;
     padding-top: 30px;
@@ -11,10 +11,16 @@ body{
     background-image:linear-gradient(62deg, #FBAB7E 20%, #F7CE68 50%, #ffffff 100%);
     font-weight: 300;
 }
-
+#p1{
+    text-align:left;
+    word-wrap: normal;
+    text-shadow: 2px 2px #F7CE68 ;
+}
 p{
     text-align: justify;
     word-spacing: 5px;
+    word-wrap: normal;
+    font-size: large;
 }
 .home{
     font-family: cursive;
