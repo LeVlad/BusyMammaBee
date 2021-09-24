@@ -2,7 +2,7 @@
     margin: 20px;
     padding: 5px;
     border: none;
-    padding-top: 30px;
+    padding-top: 5px;
 }
 /* body */
 body{
@@ -17,7 +17,7 @@ body{
     text-shadow: 2px 2px #F7CE68 ;
 }
 p{
-    text-align: justify;
+    text-align: left;
     word-spacing: 5px;
     word-wrap: normal;
     font-size: large;
@@ -30,8 +30,17 @@ p{
 /* header, logo and headings*/
 
 
+.home-h2{
+    text-align: left;
+    font-family:cursive,sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-shadow:2px 2px #FBAB7E;
+
+
+}
 h1,
-h2 {
+ {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -42,11 +51,12 @@ h2 {
     float:left;
     font-size: 200%;
     text-shadow: 2px 2px;
-    
+       
 }
-a:link{
+a {
     text-decoration: none;
-}
+    color:#FBAB7E;
+    }
 /*  navbar */
 .navbar {
     overflow: hidden;
@@ -54,6 +64,7 @@ a:link{
     position:fixed;
     top: 0;
     width: 100%;
+    padding: 10px 12px;
   }
   
   /* navbar links */
@@ -67,6 +78,7 @@ a:link{
     text-decoration-style:none;
     letter-spacing: 1px;
       }
+      
 
 /* Change background on mouse-over */
 .navbar a:hover {
