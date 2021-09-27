@@ -25,19 +25,19 @@ body{
     padding: .3em;
     margin: 0;
     float:left;
-    width: 50%;
+    width: 33%;
     }
   
 #p1{
     text-align:left;
     word-wrap: normal;
     text-shadow: 2px 2px #F7CE68 ;
+    font-size:larger;
 }
 p{
-    text-align: left;
     word-spacing: 5px;
     word-wrap: normal;
-    font-size: large;
+    font-size: 85%;
 }
 .home{
     font-family: cursive;
