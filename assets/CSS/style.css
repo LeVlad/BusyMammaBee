@@ -77,7 +77,7 @@ h1 {
 
 a {
     text-decoration: none;
-    color: #FBAB7E;
+    color: #bd4500;
 }
 
 /*  navbar */
@@ -110,14 +110,26 @@ li {
     background: #FBAB7E;
     color: hsl(51, 91%, 65%);
 }
-
+hr{
+    height: 0.5px;
+    border:0;
+    background-color: #bd4500;
+   
+}
 /* gallery*/
 
 .gallery{
-    float:center;
+    float:right;
 
 }
 img{
-     width: 150px;
-    height: 150px;
+    border-radius: 50%;
+     height:120px;
+     width: 120px;
+     max-width: 300px;
+     max-height: 300px;
+     padding: none;
+     object-fit: contain;
+     border:#252525 2px solid;
+
 }
