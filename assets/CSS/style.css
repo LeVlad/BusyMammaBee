@@ -3,6 +3,7 @@
     padding: 10px;
     border: none;
     padding-top: 5px;
+    box-sizing:border-box;
 }
 
 /* body */
@@ -143,10 +144,17 @@ img{
 /* contact */
 
 input[type=button]{
-    align: left;
     border:1px solid;
     border-color: #252525;
     text-transform: uppercase;
     margin: 2px 2px;
     cursor:pointer;
    }
+
+   /* responsivness */
+
+   @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
