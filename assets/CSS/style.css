@@ -142,7 +142,11 @@ img{
 
 /* contact */
 
-.submit{
+input[type=button]{
+    align: left;
     border:1px solid;
+    border-color: #252525;
     text-transform: uppercase;
-}
+    margin: 2px 2px;
+    cursor:pointer;
+   }
