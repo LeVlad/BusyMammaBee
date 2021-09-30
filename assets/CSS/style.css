@@ -150,10 +150,38 @@ input[type=button]{
     margin: 2px 2px;
     cursor:pointer;
    }
+   
+   .contact{
+       text-align: left;
+       width: 1200px;
+       height:700px;
+       margin: 0;
+       padding:10px;
+       background-color: #F7CE68 79%;
+       
+   }
+   #message{
+       float:left;
+          }
+   .submit{
+       float: left;
+       
+   }
+label, input{
+    float: left;
+}
 
-   /* responsivness */
+label {
+    clear:left;
+    display:block;
+    width:120px;
+}
+   /* for small screens 800 and down */
 
-   @media only screen and (max-width: 600px) {
+   @media only screen and (max-width: 800px) {
+       img{
+           columns: 2;
+       }
     body {
       background-color: lightblue;
     }
@@ -166,7 +194,7 @@ input[type=button]{
         height: 150px;
   }
   #socials{
-      
+
       text-align: center;
       font-size:260%;
    
