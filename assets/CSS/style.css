@@ -26,7 +26,7 @@ body {
 
 
 .help-talk {
-    padding: none;
+    padding: 0;
     margin: 0;
    
 }
@@ -135,7 +135,7 @@ img{
      width: 120px;
      max-width: 300px;
      max-height: 300px;
-     padding: none;
+     padding: 0;
      object-fit: contain;
      border:#252525 2px solid;
 
@@ -157,7 +157,7 @@ input[type=button]{
        height:700px;
        margin: 0;
        padding:10px;
-       background-color: #F7CE68 79%;
+       background-color: #F7CE68;
        
    }
    #message{
@@ -178,21 +178,25 @@ label {
 }
 
 /* for medium screen size 950 px wide and down*/
-@media screen (max: width 950px) {
 
-         #about,#articles,#contact {
-             clear:left;
-             float:left;
-             margin-left: 30px;
-             margin-bottom: 20px;
-             line-height: 25px;
-         }
-         h1, h2, h3, p {
+@media only screen (max-width 950px){
+
+         (#about,#articles,#contact)
+    {
+        clear:left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+         line-height: 25px;
+    }
+            
+
+        (h1, h2, h3, p){
+         
              text-align:center;
              width: inherit;
          }
-
-}
+ }
     
 
 
@@ -200,7 +204,7 @@ label {
 
    @media only screen and (max-width: 800px) {
        img{
-           columns: 2";
+           columns: 2;
        }
     body {
       background-color: lightblue;
