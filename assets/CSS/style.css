@@ -176,11 +176,31 @@ label {
     display:block;
     width:120px;
 }
+
+/* for medium screen size 950 px wide and down*/
+@media screen (max: width 950px) {
+
+         #about,#articles,#contact {
+             clear:left;
+             float:left;
+             margin-left: 30px;
+             margin-bottom: 20px;
+             line-height: 25px;
+         }
+         h1, h2, h3, p {
+             text-align:center;
+             width: inherit;
+         }
+
+}
+    
+
+
    /* for small screens 800 and down */
 
    @media only screen and (max-width: 800px) {
        img{
-           columns: 2;
+           columns: 2";
        }
     body {
       background-color: lightblue;
