@@ -1,8 +1,5 @@
 * {
-    margin-top: 5%;
-    padding: 10px;
     border: none;
-    padding-top: 5px;
     box-sizing:border-box;
 }
 
@@ -102,10 +99,10 @@ a {
     position: fixed;
     top: 0;
     width: 100%;
-    padding: 1px 1px;
+    padding: none;
     height: auto;
     display: block;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
 }
 
 /* navbar links */
@@ -133,7 +130,7 @@ hr{
 }
 
 /*Floating Back-To-Top Button*/
-#myBtn {
+#button {
     position: fixed;
     bottom: 10px;
     float: right;
@@ -146,10 +143,12 @@ hr{
     background-color: #bd4500;
     padding: .5px;
     border-radius: 4px;
+    color:#F7CE68;
+    text-align: center;
     
 }
 /*On Hover Color Change*/
-#myBtn:hover {
+#button:hover {
     background-color: hsl(51, 91%, 65%);
     color:#bd4500;
     
@@ -188,15 +187,15 @@ input[type=button]{
    
    .contact{
        text-align: left;
-       width: 1200px;
-       height:700px;
+       max-width: auto;
+       max-height: auto;
        margin: 0;
-       padding:10px;
        background-color: #F7CE68;
        
    }
    #message{
        float:left;
+       max-width: 100%;
           }
    .submit{
        float: left;
@@ -230,7 +229,7 @@ label {
              text-align:center;
              width: inherit;
          }
-}
+ } 
     
 
 
@@ -243,17 +242,19 @@ label {
     body {
       background-color: lightblue;
     }
+    #logo {
+        font-size: 1rem;
+    }
   }
 
   /* footer */
 
   footer{
-
-        height: 150px;
+      height:60%;
   }
-  #socials{
+  #socials {
 
-      text-align: center;
-      font-size:260%;
+    float: center;
+    font-size:260%;
    
   }
