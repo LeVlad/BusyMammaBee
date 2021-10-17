@@ -6,9 +6,11 @@ Is a static website where anyone with an interest in what life with children is 
 
 While browsing the website anyone can :
 
-1. Read specific articles retaling to specific issues (SPD, ADHD, Weaning,Colic, etc)
-2. Read other people's experiences, trials and errors.
-3. Connect with other people through the forum option
+1. Read specific articles relating to specific issues with babies and toddlers (SPD, ADHD, Weaning,Colic, etc)
+2. Further research articles to learn more.
+3. Link with FB, TW or IG with likeminded people.
+
+
 
 Outside of the website there are options on linking through social media (*Facebook*, *Instagram*,  *Twitter*)
 
