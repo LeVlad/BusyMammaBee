@@ -19,13 +19,7 @@ body {
     text-shadow: 2px 2px #fef8eb ;
     font-size: medium;
     text-transform: uppercase;
-}
-
-
-.help-talk {
-    padding: 0;
-    margin: 0;
-   
+    padding-bottom: 5%;
 }
 
 #p1 {
@@ -45,15 +39,8 @@ p{
     margin:auto;
     line-height: 22px;
 }
-
-span #colic{ 
-        max-width: 300px;
-        height:300px;
-        float: left;
-        border:none;
-    }
-         
-      
+ 
+    
 .home {
     font-family: cursive;
     font-size: smaller;
@@ -77,12 +64,12 @@ h1 {
     color: #252525
 }
 
-#colic,#adhd, #weaning, #spd{
+#colic,#adhd, #weaning, #spd, #potty, #development, #help-talk, #fun-learning{
     text-align: right;
     column-count: 2;
     column-gap: 1px;
     column-width: 10px;
-    padding: 100px 50px 100px 50px;
+    padding: 50px 25px 50px 25px;
 }
 
 .right{
@@ -171,9 +158,8 @@ hr{
  /* gallery*/
 
 .gallery{
-    float:right;
-
-}
+    float:center;
+    }
 img{
     border-radius: 50%;
      height:120px;
