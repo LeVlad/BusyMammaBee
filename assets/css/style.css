@@ -83,7 +83,7 @@ h1 {
     font-family: cursive;
     float: left;
     font-size: 200%;
-    text-shadow: 4px 4px;
+    text-shadow: 4px 4px #FBAB7E;
     padding-right:5px;
     padding-top: 5px;
 
@@ -91,7 +91,7 @@ h1 {
 
 a {
     text-decoration: none;
-    color: #bd4500;
+    color:#bd4500;
 }
 
 /*  navbar */
