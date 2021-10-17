@@ -68,7 +68,7 @@ h1 {
     text-align: right;
     column-count: 2;
     column-gap: 1px;
-    column-width: 10px;
+    column-width: 100px;
     padding: 50px 25px 50px 25px;
 }
 
@@ -179,28 +179,18 @@ img:hover{
 /* contact */
 
 input[type=button]{
-    border:1px solid;
+    border:5px solid;
     border-color: #252525;
     text-transform: uppercase;
     margin: 2px 2px;
     cursor:pointer;
+    display: inline-block;
+    vertical-align: left;
    }
-   
-   .contact{
-       text-align: left;
-       max-width: auto;
-       max-height: auto;
-       margin: 0;
-       background-color: #F7CE68;
-       
-   }
+      
    #message{
        float:left;
        max-width: 100%;
-          }
-   .submit{
-       float: left;
-       
    }
 label, input{
     float: left;
@@ -253,9 +243,14 @@ label {
   footer{
       height:60%;
   }
-  #socials {
 
-    float: center;
+  .contact{
+    display: inline-block;
+    background-color: #FBAB7E;
+}
+  #socials {
+  display:inline-block;
+  vertical-align: middle;
     font-size:260%;
-   
-  }
+     }
+
