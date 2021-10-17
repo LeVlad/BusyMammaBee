@@ -77,6 +77,21 @@ h1 {
     color: #252525
 }
 
+#colic,#adhd, #weaning, #spd{
+    text-align: right;
+    column-count: 2;
+    column-gap: 1px;
+    column-width: 10px;
+    padding: 100px 50px 100px 50px;
+}
+
+.right{
+    float:right;}
+
+.left{
+    float: left;
+}
+
 #logo {
     font-family: cursive;
     float: left;
