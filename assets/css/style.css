@@ -124,9 +124,12 @@ li {
     color: hsl(51, 91%, 65%);
 }
 hr{
-    height: 0.5px;
-    border:0;
+    height: 6px;
+    border: 2px;
     background-color: #bd4500;
+    box-align: center;
+    width: 80%;
+    margin: 25px 25px 25px 25px;
    
 }
 
