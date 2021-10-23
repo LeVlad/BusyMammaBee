@@ -40,7 +40,7 @@ In the near future a community interactive discusion board will be created to he
 
 Most of the code I have written myself and where I borrowed I have from the follwing:
 
-navbar - https://www.w3schools.com/howto/howto_css_fixed_menu.asp
+navbar = https://www.w3schools.com/howto/howto_css_fixed_menu.asp
 
 word-wrap = https://www.w3schools.com/cssref/css3_pr_word-wrap.asp
 
@@ -50,14 +50,13 @@ gallery = https://www.w3schools.com/css/css_image_gallery.asp
 
 hr color fill = https://stackoverflow.com/questions/37515547/how-do-i-fill-an-hr-divider-in-css-with-a-color?noredirect=1&lq=1
 
-An HTML comment begins with <! –– and the comment closes with ––> . HTML comments are visible to anyone that views the page source code, but are not rendered when the HTML document is rendered by a browser.
 
 transparent navbar  = https://stackoverflow.com/questions/16392952/css-to-make-bootstrap-navbar-transparent/44176657
 
-Contact form = https://www.w3schools.com/tags/tag_textarea.asp
+contact form = https://www.w3schools.com/tags/tag_textarea.asp
                https://www.w3schools.com/html/html_forms.asp
 
-Responsivness = https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+responsivness = https://www.w3schools.com/css/css_rwd_mediaqueries.asp
 
 form css style = https://stackoverflow.com/questions/8736079/form-formatting-center-form-and-align-its-fields-to-the-left
 
