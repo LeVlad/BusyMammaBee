@@ -10,15 +10,22 @@ Is a static website where anyone with an interest in what life with children is 
  # Table of contents #
  
  1. Home
+ ![Home](https://user-images.githubusercontent.com/88729876/138574564-7786f77f-e5ac-4f72-8e12-25683cfecea1.jpg)
+
  2. About
+ ![About](https://user-images.githubusercontent.com/88729876/138574566-966c474b-cbff-4bfd-a1c5-02c6ebc13210.jpg)
+
  3. Articles
+ ![Articles](https://user-images.githubusercontent.com/88729876/138574568-bcf2b416-0d4f-4cbe-a53e-9988d45f52a1.jpg)
+
  5. Contact
+![Contact](https://user-images.githubusercontent.com/88729876/138574570-1edd2e0c-df9c-4754-9824-183c1ff49374.jpg)
 
 # Usage #
 
 While browsing the website anyone can :
 
-1. Read specific articles relating to specific issues with babies and toddlers (SPD, ADHD, Weaning,Colic, etc)
+1. Read specific articles relating to specific issues with babies and toddlers (SPD, ADHD, Weaning, Colic, etc)
 2. Further research articles to learn more.
 3. Link with FB, TW or IG with likeminded people. (these will need to be set up)
 
@@ -27,7 +34,6 @@ Outside of the website there are options on linking through social media (*Faceb
 # Lighthouse Report #
 ![Lighthouse report](https://user-images.githubusercontent.com/88729876/138574355-74129f97-a1db-460d-b018-94244149f521.jpg)
 
-As it stands the lighthouse report is showing an overall mark of 97.
 
 # WCS VALIDATORS CSS & HTML #
 ![WCS CSS VALIDATOR](https://user-images.githubusercontent.com/88729876/138574373-ff97db7e-72a0-4f5e-85ee-acf1904e8185.jpg)
