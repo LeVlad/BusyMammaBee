@@ -22,11 +22,17 @@ While browsing the website anyone can :
 2. Further research articles to learn more.
 3. Link with FB, TW or IG with likeminded people. (these will need to be set up)
 
+Outside of the website there are options on linking through social media (*Facebook*, *Instagram*,  *Twitter*)
+
 # Lighthouse Report #
+![Lighthouse report](https://user-images.githubusercontent.com/88729876/138574355-74129f97-a1db-460d-b018-94244149f521.jpg)
 
 As it stands the lighthouse report is showing an overall mark of 97.
 
-Outside of the website there are options on linking through social media (*Facebook*, *Instagram*,  *Twitter*)
+# WCS VALIDATORS CSS & HTML #
+![WCS CSS VALIDATOR](https://user-images.githubusercontent.com/88729876/138574373-ff97db7e-72a0-4f5e-85ee-acf1904e8185.jpg)
+![WCS HTML VALIDATOR](https://user-images.githubusercontent.com/88729876/138574376-ce9890d5-61ff-4fd0-87f2-8c84bdd724f2.jpg)
+
 
 # Contributing #
 
