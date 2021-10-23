@@ -181,7 +181,7 @@ input[type=button]{
     border:5px solid;
     border-color: #252525;
     text-transform: uppercase;
-    margin: 2px 2px;
+    margin: 1px 1px;
     cursor:pointer;
     display: inline-block;
        }
