@@ -46,11 +46,13 @@ BusyMammaBee is a static site therefore no dynamic attributions but should there
 
 # Upcoming #
 
-In the near future a community interactive discusion board will be created to help easy interpersonal connections.
+In the near future a community interactive discusion board will be created to help ease the connection of similarly minded people.
 
-# Credits #
+# Credits 
 
-Most of the code I have written myself and where I borrowed I have from the follwing:
+Richard Wells - an excellent mentor that will go above and beyond
+
+Most of the code I have written myself and where I borrowed I have from the following:
 
 navbar = https://www.w3schools.com/howto/howto_css_fixed_menu.asp
 
