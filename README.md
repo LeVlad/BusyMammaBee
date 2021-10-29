@@ -25,17 +25,27 @@ While browsing the website anyone can :
 3. Link with FB, TW or IG with likeminded people. (these will need to be set up)
 
 Outside of the website there are options on linking through social media (*Facebook*, *Instagram*,  *Twitter*)
+# Testing #
+
 
 # Lighthouse Report #
 ![Lighthouse report](https://user-images.githubusercontent.com/88729876/138574355-74129f97-a1db-460d-b018-94244149f521.jpg)
 
 
 # WCS VALIDATORS CSS & HTML #
+
+-No errors were found when running the css code through the official W3C Jigsaw validator
+
 ![WCS CSS VALIDATOR](https://user-images.githubusercontent.com/88729876/138574373-ff97db7e-72a0-4f5e-85ee-acf1904e8185.jpg)
+
+-No errors were found when running the html code through the official W3C validator
+
 ![WCS HTML VALIDATOR](https://user-images.githubusercontent.com/88729876/138574376-ce9890d5-61ff-4fd0-87f2-8c84bdd724f2.jpg)
 
+
+
 # Technology Used #
-HTML & CSS programming languages
+HTML5 & CSS3 programming languages
 Font Awesome - Social Media Logos
 GitPod - IDE for local developement
 GIT - Version Control
@@ -51,7 +61,7 @@ In the near future a community interactive discusion board will be created to he
 
 # Credits 
 
-Richard Wells - an excellent mentor that will go above and beyond
+Richard Wells - an excellent mentor that will go above and beyond.
 
 Most of the code I have written myself and where I borrowed I have from the following:
 
