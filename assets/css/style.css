@@ -215,9 +215,10 @@ label {
         margin-left: 30px;
         margin-bottom: 20px;
          line-height: 25px;
-         columns: 1;
-        }
-
+    }
+    #colic,#adhd, #weaning, #spd, #potty, #development, #help-talk, #fun-learning{
+        columns: 1;
+    }
         #button{
             width:60%;
         }
@@ -228,19 +229,7 @@ label {
              width: inherit;
              columns: 1;
          }
-         li{
-             margin-right: 0.5rem;
-         }
-         i{
-             display:none;
-         }
-
-         a{
-             margin-left:0 0 0 0 ;
-         }
-         .navbar{
-             columns: 1;
-         }
+         
  } 
     
 
@@ -259,20 +248,10 @@ label {
     }
     .contact{
         width: 10rem;
-    }
-    .articles{
-        columns: 1;
-    }
-    i{
-        display:none;
-    }
-
-    a{
-        margin-left:0 0 0 0 ;
-    }
-    .navbar{
-        columns: 1;
-    }
+     }
+      #colic,#adhd, #weaning, #spd, #potty, #development, #help-talk, #fun-learning{
+            columns:1;
+        }
   }
 
   /* footer */
