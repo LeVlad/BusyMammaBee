@@ -14,7 +14,7 @@
 
 ## 2. About ##
 
--The "About" section gives a bit more information about the purpose of the website and how it came about
+- The "About" section gives a bit more information about the purpose of the website and how it came about
 
  ![About](https://user-images.githubusercontent.com/88729876/138574566-966c474b-cbff-4bfd-a1c5-02c6ebc13210.jpg)
 
@@ -69,9 +69,10 @@ GitHub - to host the repositories for this project and the live website preview
 BusyMammaBee is a static site therefore no dynamic attributions but should there be any improvement ideas there will always be an option to listen and implement if needed. That can be done via our contact@busymammabee.com e-mail address.
 
 # Deployment #
-The site was deployed to GitHub pages. The steps to deploy are as follows:
+The site was deployed to GitHub pages.
+The steps to deploy are as follows:
 
-1.In the GitHub repository, navigate to the repository for apprentice-brewing and then click on the Settings tab.
+1.In the GitHub repository, navigate to the repository for busymammabee and then click on the Settings tab.
 2.Click on the Pages tab from the list of options on the left hand side of the page.
 3.Under Source click the drop-down menu labelled None and select main as the branch.
 4.Once saved the link to the page will be provided above the ‘Source’ sub-section upon refreshing.
@@ -84,7 +85,7 @@ In the near future a community interactive discusion board will be created to he
 
 # Credits 
 
-Richard Wells - an excellent mentor that will go above and beyond.
+Richard Wells - an excellent mentor who will go above and beyond.
 
 Most of the code I have written myself and where I borrowed I have from the following:
 
