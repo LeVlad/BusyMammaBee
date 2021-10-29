@@ -209,7 +209,7 @@ label {
 
 @media only screen and (max-width: 950px){
 
-    #about #articles #contact{
+    #about .articles .contact{
         clear:left;
         float: left;
         margin-left: 30px;
@@ -223,8 +223,7 @@ label {
         }
             
 
-        h1 h2 h3 + p {
-         
+        h1 h2 h3 + p {         
              text-align:center;
              width: inherit;
              columns: 1;
@@ -246,7 +245,7 @@ label {
     
 
 
-   /* for small screens 800 and down */
+   /* for small screens 800px and down */
 
    @media only screen and (max-width: 800px) {
        img{
@@ -261,7 +260,7 @@ label {
     .contact{
         width: 10rem;
     }
-    #articles{
+    .articles{
         columns: 1;
     }
     i{
