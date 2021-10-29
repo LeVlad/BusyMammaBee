@@ -209,7 +209,7 @@ label {
 
 @media only screen and (max-width: 950px){
 
-    #about .articles .contact{
+    #about #articles #contact{
         clear:left;
         float: left;
         margin-left: 30px;
@@ -220,7 +220,7 @@ label {
         columns: 1;
     }
         #button{
-            width:15%;
+            width:30%;
         }
             
 
@@ -247,8 +247,9 @@ label {
         font-size: 1rem;
         
     }
-   ul{
-       display:flex;
+   
+    li{
+       display:inline;
    }
     .contact{
         width: 10rem;
@@ -257,6 +258,7 @@ label {
             columns:1;
         }
 
+       
   }
 
   /* footer */
@@ -272,6 +274,12 @@ label {
   #socials {
   display:inline-block;
   vertical-align: middle;
-    font-size:260%;
+    font-size:2.5rem;
+     }
+
+     #submit{
+         display:block;
+         border: 1px #252525;
+         float:left;
      }
 
