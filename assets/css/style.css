@@ -116,6 +116,9 @@ li {
     font-size: 150%;
 }
 
+input, textarea{
+    width:10rem;
+}
 
 
 /* Change background on mouse-over */
@@ -210,6 +213,11 @@ label {
         margin-left: 30px;
         margin-bottom: 20px;
          line-height: 25px;
+         columns: 1;
+        }
+
+        #button{
+            width:60%;
         }
             
 
@@ -217,6 +225,13 @@ label {
          
              text-align:center;
              width: inherit;
+             columns: 1;
+         }
+         li{
+             margin-right: 0.5rem;
+         }
+         i{
+             display:none;
          }
  } 
     
@@ -233,6 +248,12 @@ label {
     }
     #logo {
         font-size: 1rem;
+    }
+    .contact{
+        width: 10rem;
+    }
+    #articles{
+        columns: 1;
     }
   }
 
