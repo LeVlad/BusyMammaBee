@@ -1,10 +1,5 @@
 # BusyMammaBee #
 
-Is a static website where anyone with an interest in what life with children is can have a look and read
-
-
-# Site overview #
-
  BusyMammaBee came about while I was searching for various articles to read so I can have a better idea of what to expect as a young parent. It took some time to realize nothing can prepare you to fully understand what you're about to jump into. With this site I want to help likeminded people connect with each other and learn as much as they can concerning child raising techniques, ideas but also fails and lessons learned.
 
  # Table of contents #
@@ -21,7 +16,7 @@ Is a static website where anyone with an interest in what life with children is 
  5. Contact
 ![Contact](https://user-images.githubusercontent.com/88729876/138574570-1edd2e0c-df9c-4754-9824-183c1ff49374.jpg)
 
-# Usage #
+# User experience #
 
 While browsing the website anyone can :
 
@@ -39,6 +34,12 @@ Outside of the website there are options on linking through social media (*Faceb
 ![WCS CSS VALIDATOR](https://user-images.githubusercontent.com/88729876/138574373-ff97db7e-72a0-4f5e-85ee-acf1904e8185.jpg)
 ![WCS HTML VALIDATOR](https://user-images.githubusercontent.com/88729876/138574376-ce9890d5-61ff-4fd0-87f2-8c84bdd724f2.jpg)
 
+# Technology Used #
+HTML & CSS programming languages
+Font Awesome - Social Media Logos
+GitPod - IDE for local developement
+GIT - Version Control
+GitHub - to host the repositories for this project and the live website preview
 
 # Contributing #
 
@@ -54,19 +55,6 @@ Richard Wells - an excellent mentor that will go above and beyond
 
 Most of the code I have written myself and where I borrowed I have from the following:
 
-navbar = https://www.w3schools.com/howto/howto_css_fixed_menu.asp
-
-word-wrap = https://www.w3schools.com/cssref/css3_pr_word-wrap.asp
-
-responsive top nav = https://www.w3schools.com/css/css_navbar_horizontal.asp
-
-gallery = https://www.w3schools.com/css/css_image_gallery.asp
-
-hr color fill = https://stackoverflow.com/questions/37515547/how-do-i-fill-an-hr-divider-in-css-with-a-color?noredirect=1&lq=1
-
-
-transparent navbar  = https://stackoverflow.com/questions/16392952/css-to-make-bootstrap-navbar-transparent/44176657
-
 contact form = https://www.w3schools.com/tags/tag_textarea.asp
                https://www.w3schools.com/html/html_forms.asp
 
@@ -74,7 +62,6 @@ responsivness = https://www.w3schools.com/css/css_rwd_mediaqueries.asp
 
 form css style = https://stackoverflow.com/questions/8736079/form-formatting-center-form-and-align-its-fields-to-the-left
 
-responsivness medium size = https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/d48e6af85eb84191bebd57ece8b6fb73/
 
 images
 
