@@ -63,7 +63,6 @@ Outside of the website there are options on linking through social media (*Faceb
 ![WCS HTML VALIDATOR](https://user-images.githubusercontent.com/88729876/138574376-ce9890d5-61ff-4fd0-87f2-8c84bdd724f2.jpg)
 
 
-
 # Technology Used #
 HTML5 & CSS3 programming languages
 Font Awesome - Social Media Logos
@@ -75,9 +74,18 @@ GitHub - to host the repositories for this project and the live website preview
 
 BusyMammaBee is a static site therefore no dynamic attributions but should there be any improvement ideas there will always be an option to listen and implement if needed. That can be done via our contact@busymammabee.com e-mail address.
 
+# Deployment #
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+
+1.In the GitHub repository, navigate to the repository for apprentice-brewing and then click on the Settings tab.
+2.Click on the Pages tab from the list of options on the left hand side of the page.
+3.Under Source click the drop-down menu labelled None and select main as the branch.
+4.Once saved the link to the page will be provided above the ‘Source’ sub-section upon refreshing.
+5.The live link can be found here -
 # Upcoming #
 
 In the near future a community interactive discusion board will be created to help ease the connection of similarly minded people.
+
 
 # Credits 
 
@@ -92,6 +100,8 @@ responsivness = https://www.w3schools.com/css/css_rwd_mediaqueries.asp
 
 form css style = https://stackoverflow.com/questions/8736079/form-formatting-center-form-and-align-its-fields-to-the-left
 
+back to top button = https://stackoverflow.com/questions/32102747/how-to-make-a-back-to-top-button-using-css-and-html-only/32102822
+
 
 images
 
@@ -103,4 +113,4 @@ images
 
 - Weaning - https://www.panmacmillan.com/blogs/lifestyle-wellbeing/how-to-start-weaning-tips
 
-back to top button = https://stackoverflow.com/questions/32102747/how-to-make-a-back-to-top-button-using-css-and-html-only/32102822
+
