@@ -245,12 +245,20 @@ label {
     }
     #logo {
         font-size: 1rem;
+        
+    }
+    li{
+        display:inline;
     }
     .contact{
         width: 10rem;
      }
       #colic,#adhd, #weaning, #spd, #potty, #development, #help-talk, #fun-learning{
             columns:1;
+        }
+
+        .fas fa-home{
+            display: none;
         }
   }
 
