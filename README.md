@@ -29,6 +29,12 @@
  - The "Contact" section of the website gives the user an opportunity to request more information, amend or maybe feedback to the creator/s.
 ![Contact](https://user-images.githubusercontent.com/88729876/138574570-1edd2e0c-df9c-4754-9824-183c1ff49374.jpg)
 
+## Navigation bar ##
+
+![Navbar](https://user-images.githubusercontent.com/88729876/139509138-1f14f79b-c316-4a5a-9e39-2930c2f554c2.jpg)
+
+- The navigation bar has been created to stick to the top of the page so as to create an ease in accessibility of the various sections of the website
+
 # User experience #
 
 While browsing the website anyone can :
@@ -42,11 +48,11 @@ Outside of the website there are options on linking through social media (*Faceb
 # Testing #
 
 
-# Lighthouse Report #
+## Lighthouse Report ##
 ![Lighthouse report](https://user-images.githubusercontent.com/88729876/138574355-74129f97-a1db-460d-b018-94244149f521.jpg)
 
 
-# WCS VALIDATORS CSS & HTML #
+## WCS VALIDATORS CSS & HTML ##
 
 -No errors were found when running the css code through the official W3C Jigsaw validator
 
