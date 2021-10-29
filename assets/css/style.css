@@ -82,15 +82,17 @@ h1 {
 #logo {
     font-family: cursive;
     float: left;
-    font-size: 200%;
+    font-size: 1.5rem;
     text-shadow: 4px 4px #FBAB7E;
     padding-right:5px;
     padding-top: 5px;
+
    }
 
 a {
     text-decoration: none;
     color:#bd4500;
+    margin-right:20px;
 }
 
 /*  navbar */
@@ -233,6 +235,13 @@ label {
          i{
              display:none;
          }
+
+         a{
+             margin-left:0 0 0 0 ;
+         }
+         .navbar{
+             columns: 1;
+         }
  } 
     
 
@@ -253,6 +262,16 @@ label {
         width: 10rem;
     }
     #articles{
+        columns: 1;
+    }
+    i{
+        display:none;
+    }
+
+    a{
+        margin-left:0 0 0 0 ;
+    }
+    .navbar{
         columns: 1;
     }
   }
