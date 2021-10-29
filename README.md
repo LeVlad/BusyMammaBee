@@ -5,16 +5,34 @@
 
  # Table of contents #
  
+ 1.Home
+ 2. About
+ 3. Articles
+ 4. Contact
+ 
+ 
+ 
  1. Home
+- The  "Home" section presents the title of the website with the logo and a representative quote
+- It is not overly complicated with images, ads, videos or pop-ups.
+- It is the top section of the page.
  ![Home](https://user-images.githubusercontent.com/88729876/138574564-7786f77f-e5ac-4f72-8e12-25683cfecea1.jpg)
 
  2. About
+
+-The "About" section gives a bit more information about the purpose of the website and how it came about
+
  ![About](https://user-images.githubusercontent.com/88729876/138574566-966c474b-cbff-4bfd-a1c5-02c6ebc13210.jpg)
 
  3. Articles
+
+- The "Articles" section relates to the information that will be presented.
+- The content of the articles is varied but comprehensive and will continue to develop as time goes by.
  ![Articles](https://user-images.githubusercontent.com/88729876/138574568-bcf2b416-0d4f-4cbe-a53e-9988d45f52a1.jpg)
 
- 5. Contact
+ 4. Contact
+ 
+ - The "Contact" section of the website gives the user an opportunity to request more information, amend or maybe feedback to the creator/s.
 ![Contact](https://user-images.githubusercontent.com/88729876/138574570-1edd2e0c-df9c-4754-9824-183c1ff49374.jpg)
 
 # User experience #
@@ -26,6 +44,7 @@ While browsing the website anyone can :
 3. Link with FB, TW or IG with likeminded people. (these will need to be set up)
 
 Outside of the website there are options on linking through social media (*Facebook*, *Instagram*,  *Twitter*)
+
 # Testing #
 
 
