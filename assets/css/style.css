@@ -96,7 +96,7 @@ a {
 /*  navbar */
 .navbar {
     overflow: hidden;
-    background:transparent;
+    background:rgba(248, 242, 242, 0.9);
     position: fixed;
     top: 0;
     width: 100%;
