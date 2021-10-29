@@ -3,34 +3,28 @@
 
  BusyMammaBee came about while I was searching for various articles to read so I can have a better idea of what to expect as a young parent. It took some time to realize nothing can prepare you to fully understand what you're about to jump into. With this site I want to help likeminded people connect with each other and learn as much as they can concerning child raising techniques, ideas but also fails and lessons learned.
 
- # Table of contents #
- 
- 1.Home
- 2. About
- 3. Articles
- 4. Contact
+ # Website Layout #
  
  
- 
- 1. Home
+## 1. Home ##
 - The  "Home" section presents the title of the website with the logo and a representative quote
 - It is not overly complicated with images, ads, videos or pop-ups.
 - It is the top section of the page.
  ![Home](https://user-images.githubusercontent.com/88729876/138574564-7786f77f-e5ac-4f72-8e12-25683cfecea1.jpg)
 
- 2. About
+## 2. About ##
 
 -The "About" section gives a bit more information about the purpose of the website and how it came about
 
  ![About](https://user-images.githubusercontent.com/88729876/138574566-966c474b-cbff-4bfd-a1c5-02c6ebc13210.jpg)
 
- 3. Articles
+## 3. Articles ##
 
 - The "Articles" section relates to the information that will be presented.
 - The content of the articles is varied but comprehensive and will continue to develop as time goes by.
  ![Articles](https://user-images.githubusercontent.com/88729876/138574568-bcf2b416-0d4f-4cbe-a53e-9988d45f52a1.jpg)
 
- 4. Contact
+## 4. Contact ##
  
  - The "Contact" section of the website gives the user an opportunity to request more information, amend or maybe feedback to the creator/s.
 ![Contact](https://user-images.githubusercontent.com/88729876/138574570-1edd2e0c-df9c-4754-9824-183c1ff49374.jpg)
@@ -81,7 +75,8 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 2.Click on the Pages tab from the list of options on the left hand side of the page.
 3.Under Source click the drop-down menu labelled None and select main as the branch.
 4.Once saved the link to the page will be provided above the ‘Source’ sub-section upon refreshing.
-5.The live link can be found here -
+5.The live link can be found here - levlad.github.io/busymammabee/
+
 # Upcoming #
 
 In the near future a community interactive discusion board will be created to help ease the connection of similarly minded people.
