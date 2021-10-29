@@ -220,7 +220,7 @@ label {
         columns: 1;
     }
         #button{
-            width:60%;
+            width:15%;
         }
             
 
@@ -247,9 +247,9 @@ label {
         font-size: 1rem;
         
     }
-    li{
-        display:inline;
-    }
+   ul{
+       display:flex;
+   }
     .contact{
         width: 10rem;
      }
@@ -257,9 +257,6 @@ label {
             columns:1;
         }
 
-        .fas fa-home{
-            display: none;
-        }
   }
 
   /* footer */
