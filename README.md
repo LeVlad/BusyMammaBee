@@ -1,4 +1,5 @@
 # BusyMammaBee #
+![responsive](https://user-images.githubusercontent.com/88729876/139498960-73c33f24-dcea-4b11-a719-b0616aca8183.jpg)
 
  BusyMammaBee came about while I was searching for various articles to read so I can have a better idea of what to expect as a young parent. It took some time to realize nothing can prepare you to fully understand what you're about to jump into. With this site I want to help likeminded people connect with each other and learn as much as they can concerning child raising techniques, ideas but also fails and lessons learned.
 
