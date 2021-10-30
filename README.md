@@ -44,6 +44,11 @@
 
 - The navigation bar has been created to stick to the top of the page so as to create an ease in accessibility of the various sections of the website
 
+## BTT (Back To Top) Button ##
+
+- Considering the layout of the website and its purpose, a back to top button is required hence why it was implemented.
+![top-button](https://user-images.githubusercontent.com/88729876/139558992-42448d1b-f3d8-4fe4-8a54-cd07001ea6bc.jpg)
+
 # User experience #
 
 While browsing the website anyone can :
@@ -58,10 +63,26 @@ Outside of the website there are options on linking through social media (*Faceb
 
 
 ## Lighthouse Report ##
-![Lighthouse report](https://user-images.githubusercontent.com/88729876/138574355-74129f97-a1db-460d-b018-94244149f521.jpg)
+
+### What is a Lighthouse report? ###
+
+Lighthouse is an open-source, automated tool for improving the quality of web pages.
+
+- A lighthousre report was carried out in browser with the following results.
+![Lighthouse report 1](https://user-images.githubusercontent.com/88729876/139559070-1d561523-9140-41ea-8445-0235c5fdffa7.jpg)
+
+ - A very good score with room for improvement
+![Lighthouse report 2](https://user-images.githubusercontent.com/88729876/139559072-5f5ebcee-9707-4680-8d5f-e087f75965c0.jpg)
+
 
 
 ## WCS VALIDATORS CSS & HTML ##
+
+### What is a Markup validator? ###
+The WCS HTML Markup Validator is a free service by W3C that helps check the validity of Web documents. 
+
+### What is a CSS validator? ###
+A CSS validator checks your Cascading Style Sheets to make sure that they comply with the CSS standards set by the W3 Consortium. 
 
 -No errors were found when running the css code through the official W3C Jigsaw validator
 
@@ -73,11 +94,10 @@ Outside of the website there are options on linking through social media (*Faceb
 
 
 # Technology Used #
-HTML5 & CSS3 programming languages
-Font Awesome - Social Media Logos
-GitPod - IDE for local developement
-GIT - Version Control
-GitHub - to host the repositories for this project and the live website preview
+- HTML5 & CSS3 programming languages
+- Font Awesome - Social Media Logos
+- GitPod - IDE for local developement
+- GitHub - to host the repositories for this project and the live website preview
 
 # Contributing #
 
@@ -85,9 +105,10 @@ BusyMammaBee is a static site therefore no dynamic attributions but should there
 
 # Deployment #
 The site was deployed to GitHub pages.
+
 The steps to deploy are as follows:
 
-1.In the GitHub repository, navigate to the repository for busymammabee and then click on the Settings tab.
+1.In the GitHub repository, navigate to the repository for LeVlad/BusyMammaBee and then click on the Settings tab.
 2.Click on the Pages tab from the list of options on the left hand side of the page.
 3.Under Source click the drop-down menu labelled None and select main as the branch.
 4.Once saved the link to the page will be provided above the ‘Source’ sub-section upon refreshing.
@@ -95,7 +116,8 @@ The steps to deploy are as follows:
 
 # Upcoming #
 
-In the near future a community interactive discusion board will be created to help ease the connection of similarly minded people.
+1. In the near future a community interactive discusion board will be created to help ease the connection of similarly minded people.
+2. A section dedicated to user experiences with the option of being anonymous or not.
 
 
 # Credits 
@@ -114,14 +136,22 @@ form css style = https://stackoverflow.com/questions/8736079/form-formatting-cen
 back to top button = https://stackoverflow.com/questions/32102747/how-to-make-a-back-to-top-button-using-css-and-html-only/32102822
 
 
-images
+## Images ##
 
-- colic - https://www.chop.edu/news/health-tip/how-soothe-baby-colic
+- Colic - https://www.chop.edu/news/health-tip/how-soothe-baby-colic
 
 - ADHD - https://www.audible.co.uk/pd/ADHD-Symptoms-and-Solutions-for-Men-and-Women-with-Attention-Deficit-Hyperactivity-Disorder-Audiobook/B08GSM6FJM
 
 - SPD - https://auditoryprocessingdisorder.com.au/sensory-processing-disorder/
 
 - Weaning - https://www.panmacmillan.com/blogs/lifestyle-wellbeing/how-to-start-weaning-tips
+- 
+- Potty  - https://www.babycentre.co.uk/ims/2016/01/iStock_53480090_wide.jpg.pagespeed.ce.hKxgv7Wzqg.jpg
+
+- Toddler Talking - https://www.babycentre.co.uk/ims/2015/11/474908666_wide.jpg.pagespeed.ce.mt7Sn1DHRM.jpg
+
+- Toddler Talking 2 - https://www.google.com/imgres?imgurl=https%3A%2F%2Fraisingchildren.net.au%2F__data%2Fassets%2Fimage%2F0015%2F48003%2Ftoddler-talking-communicating.jpg&imgrefurl=https%3A%2F%2Fraisingchildren.net.au%2Ftoddlers%2Fconnecting-communicating%2Fcommunicating%2Ftoddlers-talking&tbnid=qJpd4eU2IaUw6M&vet=12ahUKEwivxLn9kPPzAhUQjxoKHeMGCA0QMygDegUIARDFAQ..i&docid=ayVsGy8Ty1LifM&w=1280&h=720&q=toddler%20talking&ved=2ahUKEwivxLn9kPPzAhUQjxoKHeMGCA0QMygDegUIARDFAQ
+
+- Toddler Talk Timeline - https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.verywellfamily.com%2Fthmb%2F5pusOBAfuVPwINyO7eYbnH4QchI%3D%2F2000x1125%2Fsmart%2Ffilters%3Ano_upscale()%2Fwhen-do-babies-start-talking-5091993-regular-FINAL-cfc3207f885f4c228beeaf25c9437d2c.png&imgrefurl=https%3A%2F%2Fwww.verywellfamily.com%2Fwhen-do-babies-start-talking-5091993&tbnid=C6ngMBuIgFNxQM&vet=12ahUKEwj6y5fRkfPzAhWZw4UKHfupBB0QMygCegUIARCvAQ..i&docid=_4kB9jBnBPjL4M&w=2000&h=1125&q=toddler%20talking%20timeline&ved=2ahUKEwj6y5fRkfPzAhWZw4UKHfupBB0QMygCegUIARCvAQ
 
 
