@@ -59,8 +59,6 @@ While browsing the website anyone can :
 
 Outside of the website there are options on linking through social media (*Facebook*, *Instagram*,  *Twitter*)
 
-
-
 # Testing #
 
 
@@ -96,11 +94,10 @@ A CSS validator checks your Cascading Style Sheets to make sure that they comply
 
 
 # Technology Used #
-HTML5 & CSS3 programming languages
-Font Awesome - Social Media Logos
-GitPod - IDE for local developement
-GIT - Version Control
-GitHub - to host the repositories for this project and the live website preview
+- HTML5 & CSS3 programming languages
+- Font Awesome - Social Media Logos
+- GitPod - IDE for local developement
+- GitHub - to host the repositories for this project and the live website preview
 
 # Contributing #
 
@@ -139,14 +136,22 @@ form css style = https://stackoverflow.com/questions/8736079/form-formatting-cen
 back to top button = https://stackoverflow.com/questions/32102747/how-to-make-a-back-to-top-button-using-css-and-html-only/32102822
 
 
-images
+## Images ##
 
-- colic - https://www.chop.edu/news/health-tip/how-soothe-baby-colic
+- Colic - https://www.chop.edu/news/health-tip/how-soothe-baby-colic
 
 - ADHD - https://www.audible.co.uk/pd/ADHD-Symptoms-and-Solutions-for-Men-and-Women-with-Attention-Deficit-Hyperactivity-Disorder-Audiobook/B08GSM6FJM
 
 - SPD - https://auditoryprocessingdisorder.com.au/sensory-processing-disorder/
 
 - Weaning - https://www.panmacmillan.com/blogs/lifestyle-wellbeing/how-to-start-weaning-tips
+- 
+- Potty  - https://www.babycentre.co.uk/ims/2016/01/iStock_53480090_wide.jpg.pagespeed.ce.hKxgv7Wzqg.jpg
+
+- Toddler Talking - https://www.babycentre.co.uk/ims/2015/11/474908666_wide.jpg.pagespeed.ce.mt7Sn1DHRM.jpg
+
+- Toddler Talking 2 - https://www.google.com/imgres?imgurl=https%3A%2F%2Fraisingchildren.net.au%2F__data%2Fassets%2Fimage%2F0015%2F48003%2Ftoddler-talking-communicating.jpg&imgrefurl=https%3A%2F%2Fraisingchildren.net.au%2Ftoddlers%2Fconnecting-communicating%2Fcommunicating%2Ftoddlers-talking&tbnid=qJpd4eU2IaUw6M&vet=12ahUKEwivxLn9kPPzAhUQjxoKHeMGCA0QMygDegUIARDFAQ..i&docid=ayVsGy8Ty1LifM&w=1280&h=720&q=toddler%20talking&ved=2ahUKEwivxLn9kPPzAhUQjxoKHeMGCA0QMygDegUIARDFAQ
+
+- Toddler Talk Timeline - https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.verywellfamily.com%2Fthmb%2F5pusOBAfuVPwINyO7eYbnH4QchI%3D%2F2000x1125%2Fsmart%2Ffilters%3Ano_upscale()%2Fwhen-do-babies-start-talking-5091993-regular-FINAL-cfc3207f885f4c228beeaf25c9437d2c.png&imgrefurl=https%3A%2F%2Fwww.verywellfamily.com%2Fwhen-do-babies-start-talking-5091993&tbnid=C6ngMBuIgFNxQM&vet=12ahUKEwj6y5fRkfPzAhWZw4UKHfupBB0QMygCegUIARCvAQ..i&docid=_4kB9jBnBPjL4M&w=2000&h=1125&q=toddler%20talking%20timeline&ved=2ahUKEwj6y5fRkfPzAhWZw4UKHfupBB0QMygCegUIARCvAQ
 
 
