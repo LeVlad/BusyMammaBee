@@ -248,11 +248,7 @@ label {
         
     }
    
-    .navbar > li{
-       display:vertical;
-       
-   }
-    .contact{
+        .contact{
         width: 10rem;
      }
       #colic,#adhd, #weaning, #spd, #potty, #development, #help-talk, #fun-learning{
