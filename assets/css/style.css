@@ -247,6 +247,10 @@ label {
         font-size: 1rem;
         
     }
+    #logo2{
+        display: none;
+ }
+ 
    
         .contact{
         width: 10rem;
