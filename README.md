@@ -1,5 +1,5 @@
 # BusyMammaBee #
-![responsive](https://user-images.githubusercontent.com/88729876/139558083-b82cce51-3c56-46e0-a6c7-323e784c2f0d.jpg)
+![responsive](https://user-images.githubusercontent.com/88729876/139561043-d0dea430-bf22-4995-9356-14a20512c2ef.jpg)
 
 
  BusyMammaBee came about while I was searching for various articles to read so I can have a better idea of what to expect as a young parent. It took some time to realize nothing can prepare you to fully understand what you're about to jump into. With this site I want to help likeminded people connect with each other and learn as much as they can concerning child raising techniques, ideas but also fails and lessons learned.
@@ -8,7 +8,7 @@
  
  ## Background ##
  
- - I chose the background to change while scrolling to create a dinamic feel but with no animations using the CSS command "background-image: linear-gradient(62deg, #FBAB7E 20%, #F7CE68 50%, #ffffff 100%);".
+ - I chose the background to change while scrolling to create a dynamic feel but with no animations using the CSS command "background-image: linear-gradient(62deg, #FBAB7E 20%, #F7CE68 50%, #ffffff 100%);".
  - The tree colours create a relaxing easy-on-the-eyes mix that is neither blank nor flashy.
 
 ## 1. Home ##
@@ -40,7 +40,8 @@
 
 ## Navigation bar ##
 
-![Navbar](https://user-images.githubusercontent.com/88729876/139509138-1f14f79b-c316-4a5a-9e39-2930c2f554c2.jpg)
+![Navbar](https://user-images.githubusercontent.com/88729876/139560973-781cbcb6-b154-436f-9708-5a6a8701bd94.jpg)
+
 
 - The navigation bar has been created to stick to the top of the page so as to create an ease in accessibility of the various sections of the website
 
@@ -51,7 +52,7 @@
 
 # User experience #
 
-While browsing the website anyone can :
+*While browsing the website anyone can :*
 
 1. Read specific articles relating to specific issues with babies and toddlers (SPD, ADHD, Weaning, Colic, etc)
 2. Further research articles to learn more.
@@ -93,7 +94,10 @@ A CSS validator checks your Cascading Style Sheets to make sure that they comply
 
 ![WCS HTML VALIDATOR](https://user-images.githubusercontent.com/88729876/139559855-cea7c148-52ef-4a91-abca-362e92fedb9c.jpg)
 
+## Bugs ##
 
+1. Found style did not work properly until the stylesheet had been linked to the html file.
+2. Found responsivness bugs when screen sizes reduced to less than 800px and corrected using the correct rule for the navbar.
 
 # Technology Used #
 - HTML5 & CSS3 programming languages
