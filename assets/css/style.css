@@ -39,8 +39,7 @@ p{
     margin:auto;
     line-height: 22px;
 }
- 
-    
+     
 .home {
     font-family: cursive;
     font-size: smaller;
@@ -223,8 +222,7 @@ label {
             width:60%;
             align-self: auto;
         }
-            
-
+        
         h1 h2 h3 + p {         
              text-align:center;
              width: inherit;
