@@ -71,10 +71,12 @@ Outside of the website there are options on linking through social media (*Faceb
 Lighthouse is an open-source, automated tool for improving the quality of web pages.
 
 - A lighthousre report was carried out in browser with the following results.
-![Lighthouse report 1](https://user-images.githubusercontent.com/88729876/139559070-1d561523-9140-41ea-8445-0235c5fdffa7.jpg)
+![Lighthouse report 1](https://user-images.githubusercontent.com/88729876/139561262-69e3d97b-29da-4828-ba73-5ddabe785763.jpg)
+
 
  - A very good score with room for improvement
-![Lighthouse report 2](https://user-images.githubusercontent.com/88729876/139559072-5f5ebcee-9707-4680-8d5f-e087f75965c0.jpg)
+![Lighthouse report 2](https://user-images.githubusercontent.com/88729876/139561264-d3944cd6-0dcc-4027-b6f2-b8daccc944d6.jpg)
+
 
 
 
