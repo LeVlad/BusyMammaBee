@@ -84,13 +84,15 @@ The WCS HTML Markup Validator is a free service by W3C that helps check the vali
 ### What is a CSS validator? ###
 A CSS validator checks your Cascading Style Sheets to make sure that they comply with the CSS standards set by the W3 Consortium. 
 
--No errors were found when running the css code through the official W3C Jigsaw validator
+- No errors were found when running the css code through the official W3C Jigsaw validator
 
-![WCS CSS VALIDATOR](https://user-images.githubusercontent.com/88729876/138574373-ff97db7e-72a0-4f5e-85ee-acf1904e8185.jpg)
+![WCS CSS VALIDATOR](https://user-images.githubusercontent.com/88729876/139559853-82170a5e-9fab-4e7a-bec4-740cda27325a.jpg)
 
--No errors were found when running the html code through the official W3C validator
 
-![WCS HTML VALIDATOR](https://user-images.githubusercontent.com/88729876/138574376-ce9890d5-61ff-4fd0-87f2-8c84bdd724f2.jpg)
+- No errors were found when running the html code through the official W3C validator
+
+![WCS HTML VALIDATOR](https://user-images.githubusercontent.com/88729876/139559855-cea7c148-52ef-4a91-abca-362e92fedb9c.jpg)
+
 
 
 # Technology Used #
@@ -104,15 +106,16 @@ A CSS validator checks your Cascading Style Sheets to make sure that they comply
 BusyMammaBee is a static site therefore no dynamic attributions but should there be any improvement ideas there will always be an option to listen and implement if needed. That can be done via our contact@busymammabee.com e-mail address.
 
 # Deployment #
-The site was deployed to GitHub pages.
+
+### The site was deployed to GitHub pages ###
 
 The steps to deploy are as follows:
 
-1.In the GitHub repository, navigate to the repository for LeVlad/BusyMammaBee and then click on the Settings tab.
-2.Click on the Pages tab from the list of options on the left hand side of the page.
-3.Under Source click the drop-down menu labelled None and select main as the branch.
-4.Once saved the link to the page will be provided above the ‘Source’ sub-section upon refreshing.
-5.The live link can be found here - levlad.github.io/busymammabee/
+1. In the GitHub repository, navigate to the repository for LeVlad/BusyMammaBee and then click on the Settings tab.
+2. Click on the Pages tab from the list of options on the left hand side of the page.
+3. Under Source click the drop-down menu labelled None and select main as the branch.
+4. Once saved the link to the page will be provided above the ‘Source’ sub-section upon refreshing.
+5. The live link can be found here - levlad.github.io/busymammabee/
 
 # Upcoming #
 
