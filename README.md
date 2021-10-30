@@ -86,11 +86,13 @@ A CSS validator checks your Cascading Style Sheets to make sure that they comply
 
 - No errors were found when running the css code through the official W3C Jigsaw validator
 
-![WCS CSS VALIDATOR](https://user-images.githubusercontent.com/88729876/138574373-ff97db7e-72a0-4f5e-85ee-acf1904e8185.jpg)
+![WCS CSS VALIDATOR](https://user-images.githubusercontent.com/88729876/139559853-82170a5e-9fab-4e7a-bec4-740cda27325a.jpg)
+
 
 - No errors were found when running the html code through the official W3C validator
 
-![WCS HTML VALIDATOR](https://user-images.githubusercontent.com/88729876/138574376-ce9890d5-61ff-4fd0-87f2-8c84bdd724f2.jpg)
+![WCS HTML VALIDATOR](https://user-images.githubusercontent.com/88729876/139559855-cea7c148-52ef-4a91-abca-362e92fedb9c.jpg)
+
 
 
 # Technology Used #
