@@ -1,33 +1,42 @@
 # BusyMammaBee #
-![responsive](https://user-images.githubusercontent.com/88729876/139498960-73c33f24-dcea-4b11-a719-b0616aca8183.jpg)
+![responsive](https://user-images.githubusercontent.com/88729876/139558083-b82cce51-3c56-46e0-a6c7-323e784c2f0d.jpg)
+
 
  BusyMammaBee came about while I was searching for various articles to read so I can have a better idea of what to expect as a young parent. It took some time to realize nothing can prepare you to fully understand what you're about to jump into. With this site I want to help likeminded people connect with each other and learn as much as they can concerning child raising techniques, ideas but also fails and lessons learned.
 
  # Website Layout #
  
+ ## Background ##
  
+ - I chose the background to change while scrolling to create a dinamic feel but with no animations using the CSS command "background-image: linear-gradient(62deg, #FBAB7E 20%, #F7CE68 50%, #ffffff 100%);".
+ - The tree colours create a relaxing easy-on-the-eyes mix that is neither blank nor flashy.
+
 ## 1. Home ##
 - The  "Home" section presents the title of the website with the logo and a representative quote
 - It is not overly complicated with images, ads, videos or pop-ups.
 - It is the top section of the page.
- ![Home](https://user-images.githubusercontent.com/88729876/138574564-7786f77f-e5ac-4f72-8e12-25683cfecea1.jpg)
+![Home](https://user-images.githubusercontent.com/88729876/139558092-55d9e422-2fe4-4fc9-b13a-3740ca71ad3a.jpg)
+
 
 ## 2. About ##
 
 - The "About" section gives a bit more information about the purpose of the website and how it came about
+![About](https://user-images.githubusercontent.com/88729876/139558097-c6dea1b1-2dcc-49bf-bc73-add1c4ecaaf8.jpg)
 
- ![About](https://user-images.githubusercontent.com/88729876/138574566-966c474b-cbff-4bfd-a1c5-02c6ebc13210.jpg)
+
 
 ## 3. Articles ##
 
 - The "Articles" section relates to the information that will be presented.
 - The content of the articles is varied but comprehensive and will continue to develop as time goes by.
- ![Articles](https://user-images.githubusercontent.com/88729876/138574568-bcf2b416-0d4f-4cbe-a53e-9988d45f52a1.jpg)
+ ![Articles](https://user-images.githubusercontent.com/88729876/139558098-93b651bd-26fc-4453-ac75-074f8d3c17e6.jpg)
+
 
 ## 4. Contact ##
  
  - The "Contact" section of the website gives the user an opportunity to request more information, amend or maybe feedback to the creator/s.
-![Contact](https://user-images.githubusercontent.com/88729876/138574570-1edd2e0c-df9c-4754-9824-183c1ff49374.jpg)
+![Contact](https://user-images.githubusercontent.com/88729876/139558101-24682b87-6b8a-4b23-a420-eb70248dd671.jpg)
+
 
 ## Navigation bar ##
 
