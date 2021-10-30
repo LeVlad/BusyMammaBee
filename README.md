@@ -97,12 +97,14 @@ A CSS validator checks your Cascading Style Sheets to make sure that they comply
 
 ![WCS HTML VALIDATOR](https://user-images.githubusercontent.com/88729876/139559855-cea7c148-52ef-4a91-abca-362e92fedb9c.jpg)
 
-## Bugs ##
+## Bugs & Fixes ##
 
-1. Found style did not work properly until the stylesheet had been linked to the html file.
-2. Found responsivness bugs when screen sizes reduced to less than 800px and corrected using the correct rule for the navbar.
+1. Issue - Content responsivness on smaller screens
+
+    Fix - Media queries were introduced depending on screen size to target elements for responsive deign. As the screen size reduced, the width of the content container was increased to fit in more content, the logo, menu items and footer icon font-size was reduced to fit the screen size.
 
 # Technology Used #
+
 - HTML5 & CSS3 programming languages
 - Font Awesome - Social Media Logos
 - GitPod - IDE for local developement
