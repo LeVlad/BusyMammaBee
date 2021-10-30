@@ -213,7 +213,7 @@ label {
         float: left;
         margin-left: 30px;
         margin-bottom: 20px;
-         line-height: 25px;
+        line-height: 25px;
     }
     #colic,#adhd, #weaning, #spd, #potty, #development, #help-talk, #fun-learning{
         columns: 1;
@@ -227,6 +227,9 @@ label {
              text-align:center;
              width: inherit;
              columns: 1;
+         }
+         #logo2{
+                display: none;
          }
          
  } 
@@ -245,8 +248,9 @@ label {
         
     }
    
-    li{
-       display:inline;
+    .navbar > li{
+       display:vertical;
+       
    }
     .contact{
         width: 10rem;
