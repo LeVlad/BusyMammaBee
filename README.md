@@ -15,7 +15,8 @@
 - The  "Home" section presents the title of the website with the logo and a representative quote
 - It is not overly complicated with images, ads, videos or pop-ups.
 - It is the top section of the page.
-![Home](https://user-images.githubusercontent.com/88729876/139558092-55d9e422-2fe4-4fc9-b13a-3740ca71ad3a.jpg)
+![Home](https://user-images.githubusercontent.com/88729876/139561227-75841b84-e2e4-4007-99b4-ce77aa73b136.jpg)
+
 
 
 ## 2. About ##
