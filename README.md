@@ -44,6 +44,11 @@
 
 - The navigation bar has been created to stick to the top of the page so as to create an ease in accessibility of the various sections of the website
 
+## BTT (Back To Top) Button ##
+
+- Considering the layout of the website and its purpose, a back to top button is required hence why it was implemented.
+![top-button](https://user-images.githubusercontent.com/88729876/139558992-42448d1b-f3d8-4fe4-8a54-cd07001ea6bc.jpg)
+
 # User experience #
 
 While browsing the website anyone can :
@@ -54,14 +59,32 @@ While browsing the website anyone can :
 
 Outside of the website there are options on linking through social media (*Facebook*, *Instagram*,  *Twitter*)
 
+
+
 # Testing #
 
 
 ## Lighthouse Report ##
-![Lighthouse report](https://user-images.githubusercontent.com/88729876/138574355-74129f97-a1db-460d-b018-94244149f521.jpg)
+
+### What is a Lighthouse report? ###
+
+Lighthouse is an open-source, automated tool for improving the quality of web pages.
+
+- A lighthousre report was carried out in browser with the following results.
+![Lighthouse report 1](https://user-images.githubusercontent.com/88729876/139559070-1d561523-9140-41ea-8445-0235c5fdffa7.jpg)
+
+ - A very good score with room for improvement
+![Lighthouse report 2](https://user-images.githubusercontent.com/88729876/139559072-5f5ebcee-9707-4680-8d5f-e087f75965c0.jpg)
+
 
 
 ## WCS VALIDATORS CSS & HTML ##
+
+### What is a Markup validator? ###
+The WCS HTML Markup Validator is a free service by W3C that helps check the validity of Web documents. 
+
+### What is a CSS validator? ###
+A CSS validator checks your Cascading Style Sheets to make sure that they comply with the CSS standards set by the W3 Consortium. 
 
 -No errors were found when running the css code through the official W3C Jigsaw validator
 
@@ -85,9 +108,10 @@ BusyMammaBee is a static site therefore no dynamic attributions but should there
 
 # Deployment #
 The site was deployed to GitHub pages.
+
 The steps to deploy are as follows:
 
-1.In the GitHub repository, navigate to the repository for busymammabee and then click on the Settings tab.
+1.In the GitHub repository, navigate to the repository for LeVlad/BusyMammaBee and then click on the Settings tab.
 2.Click on the Pages tab from the list of options on the left hand side of the page.
 3.Under Source click the drop-down menu labelled None and select main as the branch.
 4.Once saved the link to the page will be provided above the ‘Source’ sub-section upon refreshing.
@@ -95,7 +119,8 @@ The steps to deploy are as follows:
 
 # Upcoming #
 
-In the near future a community interactive discusion board will be created to help ease the connection of similarly minded people.
+1. In the near future a community interactive discusion board will be created to help ease the connection of similarly minded people.
+2. A section dedicated to user experiences with the option of being anonymous or not.
 
 
 # Credits 
